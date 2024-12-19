@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74288798235",
+    "project_id": "finalwmp-3393c",
+    "storage_bucket": "finalwmp-3393c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74288798235:android:a26b15600c15206bb8b6be",
+        "android_client_info": {
+          "package_name": "com.example.wmpfinalexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTH6G5VF1FaNNmwjZmA509-xOviJTqMWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
